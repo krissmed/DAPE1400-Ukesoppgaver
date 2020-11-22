@@ -1,4 +1,4 @@
-package kontrollStrukturer1;
+package kontrollstrukturer1;
 
 import javax.swing.*;
 
